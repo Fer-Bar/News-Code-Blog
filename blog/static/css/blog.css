@@ -8,10 +8,7 @@
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
-.page-header h1 a:hover {
-    color: #0dddf8;
 
-}
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #224459;
     font-size: 36pt;
