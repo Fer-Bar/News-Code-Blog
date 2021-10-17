@@ -1,11 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 .page-header {
-    background-color: #C25100;
+    background-color: #BDD9F2;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
+.page-header:hover {
+    color: #0dddf8;
 
+}
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
+    color: #224459;
     font-size: 36pt;
     text-decoration: none;
 }
