@@ -1,9 +1,10 @@
 # News Code Blog 📝
+> This blog was made thanks to the help of django girls ❤.
 > ![Captura de pantalla 2022-07-13 125740](https://user-images.githubusercontent.com/90936639/178789485-4344bd1b-542a-4f9c-84e2-9a2de4c9b305.png)
 
 ## Functionality: 
-This blog was made thanks to the help of django girls ❤. You can write, update and delete posts in your own blog. <br>
-This application is deployed on pythonanywhere. To checkout this application visit this link https://newscode.pythonanywhere.com/
+- You can write, update and delete posts in your own blog. <br>
+- This application is deployed on pythonanywhere. To checkout this application visit this [link](https://newscode.pythonanywhere.com/).
 # 👨‍💻Installation
 ## 📄Pre-Requirements
 - Python Installed (Recommended version 3.8 or above)
